@@ -1,0 +1,5 @@
+InfluxDB:
+  URL: http://raspberrypi:8086
+  username: klaus
+  password:
+  databaseName: garching_schwimmbad
